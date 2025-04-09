@@ -18,7 +18,7 @@ This repository hosts the official **releases** of the software.
 
 ## 🧰 Installation
 
-1. Navigate to the [Releases](https://github.com/your-username/your-repo/releases) section.
+1. Navigate to the [Releases](https://github.com/WhySimply/myhud-release/releases) section.
 2. Download the latest available version.
 3. Run the executable to start using the application.
 
