@@ -8,7 +8,7 @@ Welcome to the official GitHub repository for **[MyHUD.app](https://myhud.app)**
 
 This repository hosts the official **releases** of the software.
 
-➡️ **Download the latest version here:** [Releases](https://github.com/your-username/your-repo/releases)
+➡️ **Download the latest version here:** [Releases](https://github.com/WhySimply/myhud-release/releases)
 
 ## 📦 Repository Contents
 
